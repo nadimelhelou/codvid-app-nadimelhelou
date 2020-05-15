@@ -8,6 +8,10 @@ by Nadim El Helou
 ## Running
 Don't forget to add your own Google API key [here](https://github.com/BUEC500C1/codvid-app-nadimelhelou/blob/master/5.%20COVID-19%20Map%20App/android/app/src/main/AndroidManifest.xml#L28) (the current one has been deactivated).
 
+## Resources
+COVID-19 API: https://covid19api.com/
+React Native Maps: https://github.com/react-native-community/react-native-maps
+
 ## Progress Tracking
 ### Steps 1-3: Setup REACT Native Environment, Go through REACT native Tutorial, Develop use case to display a map
 Deployed on an Android Virtual Device.
