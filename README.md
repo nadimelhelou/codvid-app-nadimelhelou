@@ -10,6 +10,7 @@ Don't forget to add your own Google API key [here](https://github.com/BUEC500C1/
 
 ## Resources
 COVID-19 API: https://covid19api.com/
+
 React Native Maps: https://github.com/react-native-community/react-native-maps
 
 ## Progress Tracking
