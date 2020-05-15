@@ -6,7 +6,7 @@ Coursework for EC 500 C1 - Building Software - Prof. Osama Alshaykh
 by Nadim El Helou
 
 ## Summary
-React Native application that displays live CODVID-19 cases per country on a map
+React Native application that displays live COVID-19 cases per country on a map
 
 ## Running
 Don't forget to add your own Google API key [here](https://github.com/BUEC500C1/codvid-app-nadimelhelou/blob/master/5.%20COVID-19%20Map%20App/android/app/src/main/AndroidManifest.xml#L28) (the current one has been deactivated).
